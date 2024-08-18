@@ -1,6 +1,15 @@
 # practical-llm
 Practical LLM Dev
 
+## Prerequisites 
+1. Create a Google Account (if you do not have one, yet): https://accounts.google.com/  
+1. Login with that account into Google Colab: https://colab.research.google.com/ 
+1. Create a Huggingface account (if you do not have one, yet): https://huggingface.co/join
+1. Create an access token and save it for later use in the notebooks: https://huggingface.co/settings/tokens
+1. Request access to gated Huggingface models:
+   1. https://huggingface.co/meta-llama/Meta-Llama-3.1-8B-Instruct 
+   1. https://huggingface.co/google/gemma-2-2b-it
+1. Make sure you can open the workshop notebooks in Colab: https://colab.research.google.com/github/DJCordhose/practical-llm 
 
 ## Yesterday 
 Transformer on CPU: https://colab.research.google.com/github/DJCordhose/practical-llm/blob/main/Assessment_SetFit.ipynb
