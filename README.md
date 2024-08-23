@@ -9,7 +9,6 @@ Practical LLM Dev
 1. Request access to gated Huggingface models:
    1. https://huggingface.co/meta-llama/Meta-Llama-3.1-8B-Instruct 
    1. https://huggingface.co/google/gemma-2-2b-it
-1. Make sure you can open the workshop notebooks in Colab: https://colab.research.google.com/github/DJCordhose/practical-llm 
 
 ## Comparing GPU microarchitectures
 * T4/RTX 20: https://en.wikipedia.org/wiki/Turing_(microarchitecture)
