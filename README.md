@@ -10,6 +10,10 @@ Practical LLM Dev
    1. https://huggingface.co/meta-llama/Meta-Llama-3.1-8B-Instruct 
    1. https://huggingface.co/google/gemma-2-2b-it
 
+## Notebooks on Colab
+1. https://colab.research.google.com/github/DJCordhose/practical-llm/blob/main/Assessment.ipynb?hl=en
+1. https://colab.research.google.com/github/DJCordhose/practical-llm/blob/main/Eval4pptx.ipynb?hl=en
+
 ## Comparing GPU microarchitectures
 * T4/RTX 20: https://en.wikipedia.org/wiki/Turing_(microarchitecture)
   * V100 - professional variant of RTX 20 consumer line: https://en.wikipedia.org/wiki/Volta_(microarchitecture)
