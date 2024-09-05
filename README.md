@@ -1,6 +1,8 @@
 # practical-llm
 Practical LLM Dev
 
+https://github.com/DJCordhose/practical-llm
+
 ## Prerequisites 
 1. Create a Google Account (if you do not have one, yet): https://accounts.google.com/  
 1. Login with that account into Google Colab: https://colab.research.google.com/ 
